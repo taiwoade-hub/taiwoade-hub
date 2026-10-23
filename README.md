@@ -1,164 +1,251 @@
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Taiwo+Adebola+%F0%9F%91%8B;Software+Engineering+%7C+Cybersecurity;DevOps+%7C+AI+%26+Automation;Building+ideas+into+working+software" alt="Animated typing introduction" />
+<a href="https://github.com/taiwoade-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+I'm+Taiwo+Adebola+%F0%9F%91%8B;Software+Engineer+in+Progress;Cybersecurity+%7C+DevOps+%7C+AI;Building+Ideas+Into+Reality" alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=flat-square&logo=vercel&logoColor=111827" alt="Portfolio" /></a>
+  <a href="https://github.com/taiwoade-hub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:taiwoadebola237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ariaempire.site">
+    <img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
-### Software Engineering · Cybersecurity · DevOps · AI & Automation
+<br />
 
-*I enjoy building useful software, exploring how systems work, and turning ideas into practical solutions.*
+**Software Engineering · Cybersecurity · DevOps · AI & Automation**
+
+*Curious by nature. Creative by instinct. Building with purpose.*
+
+<br />
+
+[![GitHub followers](https://img.shields.io/github/followers/taiwoade-hub?style=social)](https://github.com/taiwoade-hub)
+[![GitHub stars](https://img.shields.io/github/stars/taiwoade-hub?style=social)](https://github.com/taiwoade-hub?tab=repositories)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `whoami`
 
-I'm **Taiwo Adebola**, a cybersecurity student and aspiring software engineer who loves creating things with technology.
+I'm **Taiwo Adebola**, a cybersecurity student, developer, and technology enthusiast passionate about building useful software and understanding how technology works under the hood.
 
-My interests span full-stack development, cybersecurity, cloud infrastructure, DevOps, AI, and automation. I learn by building real projects, exploring tools, solving problems, and improving my engineering skills one project at a time.
+My interests span full-stack development, cybersecurity, cloud infrastructure, DevOps, artificial intelligence, and automation.
 
-- 🔭 **Building:** Web applications, bots, automation tools, and developer-focused products.
-- 🌱 **Learning:** Software architecture, secure development, cloud infrastructure, and production deployment.
-- 🛡️ **Interested in:** Cybersecurity, web security, Linux, and responsible security testing.
-- ⚙️ **Exploring:** DevOps workflows, containers, cloud hosting, APIs, and self-hosted services.
-- 🤖 **Experimenting with:** AI integrations, Telegram bots, and workflow automation.
-- 🎯 **Goal:** Grow into a well-rounded engineer who can build, secure, and deploy reliable software.
-- 💬 **Let's talk about:** Software engineering, cybersecurity, DevOps, AI, open source, and creative projects.
+I enjoy turning ideas into working products, experimenting with new technologies, solving real-world problems, and continuously improving my engineering skills.
 
-> **Build thoughtfully. Secure responsibly. Keep learning.**
+I don't just want to write code. I want to understand systems, build reliable solutions, secure applications, and create technology that makes a difference.
 
-## `$ tech-stack`
+```python
+class TaiwoAdebola:
+    def __init__(self):
+        self.role = "Cybersecurity Student & Aspiring Software Engineer"
+        self.interests = [
+            "Software Engineering",
+            "Cybersecurity",
+            "AI & Automation",
+            "DevOps & Cloud",
+            "Web & Mobile Development",
+            "Linux & Open Source",
+        ]
+        self.mindset = "Learn by building"
+        self.goal = "Become a well-rounded software engineer"
+
+    def philosophy(self):
+        return "Build thoughtfully. Secure responsibly. Never stop learning."
+
+
+me = TaiwoAdebola()
+```
+
+### What I'm focused on
+
+- Building modern web applications, APIs, bots, and developer tools.
+- Exploring secure software development and responsible security testing.
+- Learning cloud infrastructure, Linux administration, and deployment workflows.
+- Experimenting with AI integrations, intelligent agents, and automation.
+- Improving my software architecture, debugging, and problem-solving skills.
+- Turning personal projects into reliable, maintainable applications.
+
+> **My philosophy:** Every project is an opportunity to learn something new and build something better.
+
+---
+
+## `tech_stack`
 
 ### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql&theme=light" alt="Programming languages" />
 </p>
 
-### Frontend
+### Frontend Development
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer&theme=light" alt="Frontend technologies" />
 </p>
 
 ### Backend & APIs
+
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/REST_APIs-374151?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,express&theme=light" alt="Backend technologies" />
 </p>
 
-### Databases, DevOps & Cloud
+### Databases & Data
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=light" alt="Database technologies" />
+</p>
+
+### DevOps, Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,nginx,git,github,bash&theme=light" alt="DevOps and infrastructure technologies" />
+</p>
+
+### AI, Automation & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai,vscode,github&theme=light" alt="AI and development tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
+  <img src="https://img.shields.io/badge/AI%20Integrations-111827?style=flat-square&logo=openai&logoColor=white" alt="AI integrations" />
   <img src="https://img.shields.io/badge/Coolify-6B46C1?style=flat-square&logo=coolify&logoColor=white" alt="Coolify" />
+  <img src="https://img.shields.io/badge/REST%20APIs-374151?style=flat-square" alt="REST APIs" />
 </p>
 
-### AI, Automation & Tools
-<p>
-  <img src="https://img.shields.io/badge/AI_Integrations-111827?style=flat-square&logo=openai&logoColor=white" alt="AI integrations" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+*My stack evolves with the project. I choose technologies based on the problem, requirements, and practical trade-offs rather than forcing every project into the same stack.*
 
-## `$ featured-work`
+---
 
-Projects across software engineering, cybersecurity, AI, automation, and infrastructure. Some are works in progress or experiments; check each repository for its current status and implemented features.
+## `featured_projects`
 
-| Project | Focus |
-|---|---|
-| **Order of Service** | Church service planning, live document preview, inline editing, and liturgy blueprints |
-| **XL Drive** | Ride-hailing web experience and responsive interface |
-| **Verify Hub** | Website checks, browser automation, screenshots, and Telegram reporting |
-| **Miro / Miro Alex** | Python Telegram bot exploring AI conversations, music features, and memory |
-| **Jurix** | Telegram bot project |
-| **AlphaHunter** | AI agent concept exploring blockchain ecosystem workflows |
-| **LinkLens** | Command-line media utility using `yt-dlp` |
-| **RunX** | Visual Studio Code extension project |
-| **Location Mapper** | Open-source mapping and location visualization |
-| **DataGuard** | SQLite-backed data dashboard concept |
-| **ProductivityOS** | Focus sessions and distraction-free productivity workflows |
-| **Todo, Habits & Goals** | Tasks, habit tracking, goals, and calendar integrations |
-| **Terrific Bank / Terry Coin** | Fintech prototype exploring wallets, transfers, and multi-currency concepts |
-| **Desktop Voice AI** | Ubuntu voice-assistant concept with offline speech recognition |
-| **Web Intelligence Platform** | Website technology inspection and responsible security investigation |
-| **Media Storage API** | Self-hostable media upload and delivery API concept |
-| **Cloudflare Tunnel / Ngrok Utility** | Secure tunnel-based access to locally hosted applications |
-| **Coolify Deployment Workflows** | Application deployment, domains, DNS troubleshooting, and service management |
-| **Alchemist** | Trading-intelligence bot concept and technical market analysis |
-| **Trading Market Scanner** | Market-data integration and trading simulation experiments |
-| **Terminal Chat** | Terminal-based chat application |
+I enjoy building across different areas of technology, from web applications and automation to cybersecurity and infrastructure.
 
-More projects may be available in my repositories. I aim to link each project to its actual source code and document its current status rather than overstate its capabilities.
+| Project | Description | Focus |
+|---|---|---|
+| **Order of Service** | Church service planning with document previews, inline editing, and liturgy blueprints. | Web Development |
+| **XL Drive** | A modern ride-hailing web experience with a responsive interface. | Frontend Engineering |
+| **Verify Hub** | Website checks, browser automation, screenshots, and Telegram reporting. | Automation |
+| **Miro / Miro Alex** | A Telegram bot exploring AI conversations, music features, and memory. | Python · AI |
+| **Jurix** | A Telegram bot project. | Bot Development |
+| **AlphaHunter** | An AI-agent concept exploring blockchain ecosystem workflows. | AI · Web3 |
+| **LinkLens** | A command-line media utility built around `yt-dlp`. | Python · CLI |
+| **RunX** | A Visual Studio Code extension project. | Developer Tools |
+| **Location Mapper** | An open-source mapping and location-visualization concept. | Maps · Web |
+| **DataGuard** | A SQLite-backed data dashboard concept. | Data Tools |
+| **ProductivityOS** | Focus sessions and distraction-free productivity workflows. | Productivity |
+| **Todo, Habits & Goals** | Task management, habit tracking, goals, and calendar integrations. | Full-Stack |
+| **Terrific Bank / Terry Coin** | A fintech prototype exploring wallets, transfers, and multi-currency concepts. | Fintech |
+| **Desktop Voice AI** | An Ubuntu voice-assistant concept with offline speech recognition. | AI · Linux |
+| **Web Intelligence Platform** | Website technology inspection and responsible security investigation. | Cybersecurity |
+| **Media Storage API** | A self-hostable media upload and delivery API concept. | Backend · Cloud |
+| **Tunnel Utility** | A tool concept for managing Cloudflare Tunnel and ngrok connections. | Networking |
+| **Alchemist** | A trading-intelligence bot concept for technical market analysis. | Python · Market Data |
+| **Trading Market Scanner** | Market-data integration and trading-simulation experiments. | Data · Automation |
+| **Terminal Chat** | A terminal-based chat application. | CLI Development |
 
-## `$ engineering-interests`
+**Explore my repositories:** [github.com/taiwoade-hub](https://github.com/taiwoade-hub?tab=repositories)
 
-- **Software engineering:** Clean architecture, maintainable code, APIs, and practical product development.
-- **Cybersecurity:** Secure development practices, web security fundamentals, system analysis, and responsible testing.
-- **DevOps:** Linux, containerization, deployments, cloud servers, DNS, and operational troubleshooting.
-- **AI & automation:** LLM integrations, bots, scripts, and tools that reduce repetitive work.
-- **Open source:** Learning in public, exploring existing tools, and building useful things.
+*Projects may be experimental, under development, or evolving. Visit each repository for its implementation, documentation, and current status.*
 
-## `$ github-stats`
+---
+
+## `engineering_interests`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      Building maintainable applications, designing APIs, and developing useful products.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cybersecurity</h3>
+      Secure coding, web security, Linux security, system analysis, and responsible testing.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ DevOps & Cloud</h3>
+      Linux, containers, CI/CD, deployment automation, cloud servers, DNS, and infrastructure.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Automation</h3>
+      LLM integrations, intelligent agents, Telegram bots, and tools that eliminate repetitive work.
+    </td>
+  </tr>
+</table>
+
+---
+
+## `github_analytics`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Most used languages" />
+<a href="https://github.com/taiwoade-hub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiwoade-hub&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub statistics" />
 </a>
 
-<br />
-
-<a href="https://streak-stats.demolab.com">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/taiwoade-hub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiwoade-hub&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used programming languages" />
 </a>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://streak-stats.demolab.com?user=taiwoade-hub&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taiwoade-hub&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 </div>
 
-## `$ beyond-code`
+---
 
-I enjoy creating, experimenting, learning new tools, and understanding how technology works under the hood. I believe the best way to grow as an engineer is to build consistently, stay curious, and learn from both successful implementations and difficult bugs.
+## `beyond_the_code`
 
-## `$ connect`
+Technology is more than a collection of tools to me. It's a way to explore ideas, solve problems, and create things that didn't exist before.
+
+I enjoy learning by experimenting, understanding how systems work, and improving through practical experience. I believe consistency, curiosity, and the willingness to solve difficult problems are essential to becoming a better engineer.
+
+I'm building my skills one project at a time, with a long-term focus on engineering quality, security, and real-world impact.
+
+---
+
+## `connect_with_me`
 
 <div align="center">
 
-<a href="https://github.com/taiwoade-hub"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:taiwoadebola237@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+**Have an interesting idea, a project to build, or something worth exploring? Let's connect.**
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2563eb&label=Profile+views)
+<a href="https://github.com/taiwoade-hub">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="mailto:taiwoadebola237@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://ariaempire.site">
+  <img src="https://img.shields.io/badge/Website-Visit%20My%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 
-*Open to learning, collaboration, and meaningful engineering conversations.*
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=taiwoade-hub&style=flat-square&color=2563eb&label=PROFILE%20VIEWS" alt="Profile views" />
+
+<br /><br />
+
+*Building today. Improving tomorrow. Creating for the future.*
 
 </div>
