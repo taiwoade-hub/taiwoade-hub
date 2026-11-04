@@ -1,251 +1,277 @@
 <div align="center">
 
+<!-- HERO TYPING BANNER -->
 <a href="https://github.com/taiwoade-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+I'm+Taiwo+Adebola+%F0%9F%91%8B;Software+Engineer+in+Progress;Cybersecurity+%7C+DevOps+%7C+AI;Building+Ideas+Into+Reality" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=85&lines=Taiwo+Adebola;Software+Engineering+%C2%B7+Cybersecurity+%C2%B7+DevOps;AI+Systems+%26+Intelligent+Automation;Architecting+Reliable%2C+Secure+Digital+Products" alt="Taiwo Adebola — Software Engineering, Cybersecurity, DevOps & AI" />
 </a>
 
-<p>
-  <a href="https://github.com/taiwoade-hub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <strong>Full-Stack Systems &nbsp;·&nbsp; Application Security &nbsp;·&nbsp; Cloud Infrastructure &nbsp;·&nbsp; AI &amp; Automation</strong><br />
+  <sub>Designing resilient software, hardening infrastructure, and engineering tools that solve real-world problems.</sub>
+</p>
+
+<!-- NAVIGATION & SOCIAL BADGES -->
+<p align="center">
+  <a href="https://ariaempire.site">
+    <img src="https://img.shields.io/badge/Portfolio-ariaempire.site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:taiwoadebola237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-taiwoadebola237%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ariaempire.site">
-    <img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://github.com/taiwoade-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
   </a>
 </p>
 
-<br />
-
-**Software Engineering · Cybersecurity · DevOps · AI & Automation**
-
-*Curious by nature. Creative by instinct. Building with purpose.*
-
-<br />
-
-[![GitHub followers](https://img.shields.io/github/followers/taiwoade-hub?style=social)](https://github.com/taiwoade-hub)
-[![GitHub stars](https://img.shields.io/github/stars/taiwoade-hub?style=social)](https://github.com/taiwoade-hub?tab=repositories)
+<p align="center">
+  <a href="https://github.com/taiwoade-hub">
+    <img src="https://img.shields.io/github/followers/taiwoade-hub?label=Followers&style=flat-square&logo=github&color=2563EB&labelColor=0F172A" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/taiwoade-hub?tab=repositories">
+    <img src="https://img.shields.io/github/stars/taiwoade-hub?label=Total%20Stars&style=flat-square&logo=github&color=2563EB&labelColor=0F172A" alt="GitHub Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=taiwoade-hub&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## `whoami`
+## `01 // EXECUTIVE SUMMARY`
 
-I'm **Taiwo Adebola**, a cybersecurity student, developer, and technology enthusiast passionate about building useful software and understanding how technology works under the hood.
+I am **Taiwo Adebola**, a software developer and cybersecurity practitioner focused on building production-grade applications, automating complex workflows, and securing modern infrastructure. My work bridges the gap between **rapid product engineering** and **disciplined systems security**—taking ideas from architecture to cloud deployment.
 
-My interests span full-stack development, cybersecurity, cloud infrastructure, DevOps, artificial intelligence, and automation.
-
-I enjoy turning ideas into working products, experimenting with new technologies, solving real-world problems, and continuously improving my engineering skills.
-
-I don't just want to write code. I want to understand systems, build reliable solutions, secure applications, and create technology that makes a difference.
-
-```python
-class TaiwoAdebola:
-    def __init__(self):
-        self.role = "Cybersecurity Student & Aspiring Software Engineer"
-        self.interests = [
-            "Software Engineering",
-            "Cybersecurity",
-            "AI & Automation",
-            "DevOps & Cloud",
-            "Web & Mobile Development",
-            "Linux & Open Source",
-        ]
-        self.mindset = "Learn by building"
-        self.goal = "Become a well-rounded software engineer"
-
-    def philosophy(self):
-        return "Build thoughtfully. Secure responsibly. Never stop learning."
-
-
-me = TaiwoAdebola()
+```yaml
+engineer:
+  name: "Taiwo Adebola"
+  handle: "@taiwoade-hub"
+  focus:
+    - "Full-Stack Web & API Engineering"
+    - "Application Security & Infrastructure Hardening"
+    - "Cloud-Native Deployment, Linux & DevOps"
+    - "AI Agents, LLM Orchestration & Process Automation"
+  approach: " Pragmatic architecture · Security by design · Continuous shipping"
+  website: "https://ariaempire.site"
 ```
 
-### What I'm focused on
-
-- Building modern web applications, APIs, bots, and developer tools.
-- Exploring secure software development and responsible security testing.
-- Learning cloud infrastructure, Linux administration, and deployment workflows.
-- Experimenting with AI integrations, intelligent agents, and automation.
-- Improving my software architecture, debugging, and problem-solving skills.
-- Turning personal projects into reliable, maintainable applications.
-
-> **My philosophy:** Every project is an opportunity to learn something new and build something better.
-
 ---
 
-## `tech_stack`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql&theme=light" alt="Programming languages" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer&theme=light" alt="Frontend technologies" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,express&theme=light" alt="Backend technologies" />
-</p>
-
-### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=light" alt="Database technologies" />
-</p>
-
-### DevOps, Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,nginx,git,github,bash&theme=light" alt="DevOps and infrastructure technologies" />
-</p>
-
-### AI, Automation & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,openai,vscode,github&theme=light" alt="AI and development tools" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
-  <img src="https://img.shields.io/badge/AI%20Integrations-111827?style=flat-square&logo=openai&logoColor=white" alt="AI integrations" />
-  <img src="https://img.shields.io/badge/Coolify-6B46C1?style=flat-square&logo=coolify&logoColor=white" alt="Coolify" />
-  <img src="https://img.shields.io/badge/REST%20APIs-374151?style=flat-square" alt="REST APIs" />
-</p>
-
-*My stack evolves with the project. I choose technologies based on the problem, requirements, and practical trade-offs rather than forcing every project into the same stack.*
-
----
-
-## `featured_projects`
-
-I enjoy building across different areas of technology, from web applications and automation to cybersecurity and infrastructure.
-
-| Project | Description | Focus |
-|---|---|---|
-| **Order of Service** | Church service planning with document previews, inline editing, and liturgy blueprints. | Web Development |
-| **XL Drive** | A modern ride-hailing web experience with a responsive interface. | Frontend Engineering |
-| **Verify Hub** | Website checks, browser automation, screenshots, and Telegram reporting. | Automation |
-| **Miro / Miro Alex** | A Telegram bot exploring AI conversations, music features, and memory. | Python · AI |
-| **Jurix** | A Telegram bot project. | Bot Development |
-| **AlphaHunter** | An AI-agent concept exploring blockchain ecosystem workflows. | AI · Web3 |
-| **LinkLens** | A command-line media utility built around `yt-dlp`. | Python · CLI |
-| **RunX** | A Visual Studio Code extension project. | Developer Tools |
-| **Location Mapper** | An open-source mapping and location-visualization concept. | Maps · Web |
-| **DataGuard** | A SQLite-backed data dashboard concept. | Data Tools |
-| **ProductivityOS** | Focus sessions and distraction-free productivity workflows. | Productivity |
-| **Todo, Habits & Goals** | Task management, habit tracking, goals, and calendar integrations. | Full-Stack |
-| **Terrific Bank / Terry Coin** | A fintech prototype exploring wallets, transfers, and multi-currency concepts. | Fintech |
-| **Desktop Voice AI** | An Ubuntu voice-assistant concept with offline speech recognition. | AI · Linux |
-| **Web Intelligence Platform** | Website technology inspection and responsible security investigation. | Cybersecurity |
-| **Media Storage API** | A self-hostable media upload and delivery API concept. | Backend · Cloud |
-| **Tunnel Utility** | A tool concept for managing Cloudflare Tunnel and ngrok connections. | Networking |
-| **Alchemist** | A trading-intelligence bot concept for technical market analysis. | Python · Market Data |
-| **Trading Market Scanner** | Market-data integration and trading-simulation experiments. | Data · Automation |
-| **Terminal Chat** | A terminal-based chat application. | CLI Development |
-
-**Explore my repositories:** [github.com/taiwoade-hub](https://github.com/taiwoade-hub?tab=repositories)
-
-*Projects may be experimental, under development, or evolving. Visit each repository for its implementation, documentation, and current status.*
-
----
-
-## `engineering_interests`
+## `02 // CORE ENGINEERING DOMAINS`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Software Engineering</h3>
-      Building maintainable applications, designing APIs, and developing useful products.
+      <h3>💻 Software &amp; API Engineering</h3>
+      <p>Architecting responsive web applications, modular REST APIs, real-time services, and developer CLI utilities with clean abstractions and maintainable codebases.</p>
+      <p>
+        <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Node.js</code> <code>NestJS</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Cybersecurity</h3>
-      Secure coding, web security, Linux security, system analysis, and responsible testing.
+      <h3>🛡️ Cybersecurity &amp; Systems Analysis</h3>
+      <p>Applying secure-by-design principles, web reconnaissance, attack-surface inspection, Linux system hardening, and responsible security testing across the stack.</p>
+      <p>
+        <code>AppSec</code> <code>Web Recon</code> <code>Linux Hardening</code> <code>Network Security</code> <code>Threat Analysis</code>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ DevOps & Cloud</h3>
-      Linux, containers, CI/CD, deployment automation, cloud servers, DNS, and infrastructure.
+      <h3>⚙️ Cloud, DevOps &amp; Infrastructure</h3>
+      <p>Containerizing workloads, managing Linux servers, configuring reverse proxies and secure tunnels, and automating CI/CD and self-hosted PaaS deployments.</p>
+      <p>
+        <code>Docker</code> <code>Linux / Ubuntu</code> <code>AWS</code> <code>Nginx</code> <code>Coolify</code> <code>GitHub Actions</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI & Automation</h3>
-      LLM integrations, intelligent agents, Telegram bots, and tools that eliminate repetitive work.
+      <h3>🤖 AI Systems &amp; Automation</h3>
+      <p>Building LLM-powered agents, conversational Telegram bots, headless browser verification pipelines, and algorithmic data scanners that eliminate manual work.</p>
+      <p>
+        <code>OpenAI / LLMs</code> <code>Autonomous Agents</code> <code>Telegram Bots</code> <code>Browser Automation</code> <code>Python</code>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## `github_analytics`
+## `03 // TECHNICAL STACK`
 
 <div align="center">
 
-<a href="https://github.com/taiwoade-hub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiwoade-hub&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub statistics" />
-</a>
+| Layer | Technologies & Tooling |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,html,css&theme=dark" height="38" alt="Languages" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer&theme=dark" height="38" alt="Frontend" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,express&theme=dark" height="38" alt="Backend" /> |
+| **Data & Persistence** | <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite&theme=dark" height="38" alt="Databases" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,nginx,git,github&theme=dark" height="38" alt="DevOps" /> |
+| **AI & Environment** | <img src="https://skillicons.dev/icons?i=vscode,postman,cloudflare&theme=dark" height="38" alt="Tools" /> |
 
-<a href="https://github.com/taiwoade-hub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiwoade-hub&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used programming languages" />
-</a>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=taiwoade-hub&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taiwoade-hub&bg_color=ffffff&color=374151&line=2563eb&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_%26_LLMs-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" alt="OpenAI & LLMs" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-0F172A?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/Coolify_PaaS-0F172A?style=flat-square&logo=coolify&logoColor=A855F7" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnels-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare Tunnels" />
+  <img src="https://img.shields.io/badge/Headless_Automation-0F172A?style=flat-square&logo=googlechrome&logoColor=4ADE80" alt="Browser Automation" />
+  <img src="https://img.shields.io/badge/REST_%26_WebSockets-0F172A?style=flat-square&logo=fastapi&logoColor=2563EB" alt="REST & WebSockets" />
+</p>
 
 </div>
 
 ---
 
-## `beyond_the_code`
+## `04 // SELECTED PROJECTS & ENGINEERING INDEX`
 
-Technology is more than a collection of tools to me. It's a way to explore ideas, solve problems, and create things that didn't exist before.
+### Featured Highlights
 
-I enjoy learning by experimenting, understanding how systems work, and improving through practical experience. I believe consistency, curiosity, and the willingness to solve difficult problems are essential to becoming a better engineer.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Web Intelligence Platform</h4>
+      <p>Automated web technology fingerprinting and security reconnaissance platform designed for responsible infrastructure and attack-surface inspection.</p>
+      <p><sub><code>Cybersecurity</code> · <code>Reconnaissance</code> · <code>Web Analysis</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Verify Hub</h4>
+      <p>End-to-end site health monitoring engine featuring headless browser automation, automated visual screenshot capture, and real-time Telegram alerting.</p>
+      <p><sub><code>Automation</code> · <code>Headless Browser</code> · <code>Telegram API</code></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 Order of Service</h4>
+      <p>Structured liturgy and event planning platform featuring live document previews, inline rich editing, and reusable service blueprints.</p>
+      <p><sub><code>Full-Stack Web</code> · <code>Document Engine</code> · <code>UI/UX</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Miro / Miro Alex</h4>
+      <p>Multi-modal Telegram assistant integrating conversational AI, contextual memory persistence, and media/music processing pipelines.</p>
+      <p><sub><code>Python</code> · <code>LLM Integration</code> · <code>Bot Architecture</code></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Alchemist &amp; Market Scanner</h4>
+      <p>Algorithmic market intelligence suite combining real-time financial data feeds, technical indicator scanning, and automated simulation workflows.</p>
+      <p><sub><code>Python</code> · <code>Market Telemetry</code> · <code>Data Pipelines</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Media Storage API &amp; Tunnel Utility</h4>
+      <p>Self-hostable asset ingestion and content delivery API paired with unified CLI tooling for managing Cloudflare Tunnel and ngrok ingress.</p>
+      <p><sub><code>Backend API</code> · <code>Cloud Networking</code> · <code>DevOps</code></sub></p>
+    </td>
+  </tr>
+</table>
 
-I'm building my skills one project at a time, with a long-term focus on engineering quality, security, and real-world impact.
+<details>
+<summary><strong>📂 View Complete Project Directory (20 Projects across Web, AI, Security &amp; Tooling)</strong></summary>
+<br />
+
+| Project | Architecture & Scope | Domain |
+| :--- | :--- | :--- |
+| **Order of Service** | Event & service planning application with live document previews, inline editing, and liturgy blueprints. | `Web Application` |
+| **XL Drive** | Modern ride-hailing platform interface engineered for responsive cross-device booking flows. | `Frontend Engineering` |
+| **Verify Hub** | Automated uptime verification, headless browser checks, screenshot capture, and Telegram reporting. | `QA & Automation` |
+| **Web Intelligence Platform** | Technology stack fingerprinting and responsible security reconnaissance toolkit. | `Cybersecurity` |
+| **Miro / Miro Alex** | Conversational AI Telegram assistant with persistent memory and media playback pipelines. | `AI · Python` |
+| **AlphaHunter** | Autonomous AI-agent workflow designed for on-chain and blockchain ecosystem telemetry. | `AI Agents · Web3` |
+| **Alchemist** | Technical market analysis bot for automated signal detection and trading intelligence. | `Fintech · Python` |
+| **Trading Market Scanner** | Real-time market data ingestion engine and algorithmic strategy simulation suite. | `Data Automation` |
+| **Terrific Bank / Terry Coin** | Digital banking prototype modeling multi-currency wallets, ledgers, and peer-to-peer transfers. | `Fintech Systems` |
+| **ProductivityOS** | Deep-work environment featuring structured focus sessions and distraction-free execution workflows. | `Productivity Web` |
+| **Todo, Habits & Goals** | Unified personal operations suite combining task pipelines, habit tracking, and calendar sync. | `Full-Stack` |
+| **Media Storage API** | Self-hostable object upload, transformation, and high-availability media delivery API. | `Backend · Cloud` |
+| **Tunnel Utility** | Developer utility for orchestrating and monitoring Cloudflare Tunnel and ngrok endpoints. | `Networking · DevOps` |
+| **DataGuard** | Lightweight SQLite-backed analytics and operational data inspection dashboard. | `Data Tooling` |
+| **Location Mapper** | Interactive geospatial mapping and real-time coordinate visualization platform. | `Geospatial · Web` |
+| **Desktop Voice AI** | Linux-native voice assistant leveraging offline speech recognition and local command execution. | `AI · Linux` |
+| **LinkLens** | High-speed command-line media extraction and stream utility built around `yt-dlp`. | `Python · CLI` |
+| **RunX** | Visual Studio Code extension engineered to streamline local code execution workflows. | `Developer Tools` |
+| **Jurix** | Automated Telegram workflow and community management bot. | `Bot Engineering` |
+| **Terminal Chat** | Low-latency terminal-based messaging client built for keyboard-driven workflows. | `CLI Systems` |
+
+</details>
+
+<p align="right">
+  <a href="https://github.com/taiwoade-hub?tab=repositories"><strong>Explore all repositories on GitHub →</strong></a>
+</p>
 
 ---
 
-## `connect_with_me`
+## `05 // CONTRIBUTIONS & TELEMETRY`
 
 <div align="center">
 
-**Have an interesting idea, a project to build, or something worth exploring? Let's connect.**
+<!-- CONTRIBUTION SNAKE (AUTO ADAPTS TO GITHUB DARK / LIGHT MODE) -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/taiwoade-hub/taiwoade-hub/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/taiwoade-hub/taiwoade-hub/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/taiwoade-hub/taiwoade-hub/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+<br /><br />
+
+<!-- UNIFIED TELEMETRY CARDS -->
+<a href="https://github.com/taiwoade-hub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taiwoade-hub&show_icons=true&hide_title=false&title_color=2563EB&icon_color=2563EB&text_color=64748B&bg_color=00000000&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+</a>
+<a href="https://github.com/taiwoade-hub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiwoade-hub&layout=compact&langs_count=8&title_color=2563EB&text_color=64748B&bg_color=00000000&hide_border=true" alt="Top Languages" />
+</a>
 
 <br />
 
 <a href="https://github.com/taiwoade-hub">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img height="165" src="https://streak-stats.demolab.com?user=taiwoade-hub&theme=transparent&hide_border=true&ring=2563EB&fire=38BDF8&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=2563EB&sideNums=2563EB&dates=94A3B8" alt="GitHub Commit Streak" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/taiwoade-hub">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=taiwoade-hub&bg_color=00000000&color=64748B&line=2563EB&point=38BDF8&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Velocity%20%26%20Commit%20Activity" alt="GitHub Contribution Activity Graph" />
+</a>
+
+</div>
+
+---
+
+## `06 // CONNECT`
+
+<div align="center">
+
+**Open to software engineering roles, security collaborations, and ambitious technical projects.**
+
+<br />
+
+<a href="https://ariaempire.site">
+  <img src="https://img.shields.io/badge/Website-ariaempire.site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
 </a>
 <a href="mailto:taiwoadebola237@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://ariaempire.site">
-  <img src="https://img.shields.io/badge/Website-Visit%20My%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/taiwoade-hub">
+  <img src="https://img.shields.io/badge/GitHub-taiwoade--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=taiwoade-hub&style=flat-square&color=2563eb&label=PROFILE%20VIEWS" alt="Profile views" />
-
-<br /><br />
-
-*Building today. Improving tomorrow. Creating for the future.*
+<sub><b>Build thoughtfully &nbsp;·&nbsp; Secure responsibly &nbsp;·&nbsp; Ship relentlessly</b></sub>
 
 </div>
